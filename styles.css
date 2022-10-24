@@ -1,0 +1,14 @@
+/*
+ * styles.css
+ *
+ * custom code not contained within the framework associated with The HUB landscapers build
+ *
+ */
+
+.font-open-sans{
+    font-family:'Open Sans';
+}
+
+.bg-galaxy{
+    background-image:url('media/galaxy.jpg');
+}
